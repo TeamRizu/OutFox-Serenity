@@ -8,8 +8,6 @@
 #BPM 95
 #PLAYLEVEL 2
 #RANK 2
-#CREDIT Daniel Rotwind
-#MAKER Daniel Rotwind
 #PREVIEW preview.ogg
 
 #DIFFICULTY 2
@@ -132,6 +130,291 @@
 #WAV36 VibesD8.ogg
 #WAV37 VibesD9.ogg
 #BMP01 BG0.png
+
+
+*---------------------- EXPANSION FIELD
+#CREDIT Daniel Rotwind
+#MAKER Daniel Rotwind
+#RANDOM 24
+#IF 1
+#ENDIF
+#IF 2
+#WAV1E Cwork2-stem1.ogg
+#WAV1F Cwork2-stem2.ogg
+#WAV1G Cwork2-stem3.ogg
+#WAV1H Cwork2-stem5.ogg
+#WAV1I Cwork2-stem4.ogg
+#WAV1J Cwork3-stem1.ogg
+#WAV1K Cwork3-stem3.ogg
+#WAV1L Cwork3-stem2.ogg
+#WAV1M Cwork3-stem4.ogg
+#WAV1N Cwork3-stem5.ogg
+#ENDIF
+#IF 3
+#WAV1E Cwork2-stem1.ogg
+#WAV1F Cwork2-stem2.ogg
+#WAV1G Cwork2-stem4.ogg
+#WAV1H Cwork2-stem3.ogg
+#WAV1I Cwork2-stem5.ogg
+#WAV1J Cwork3-stem1.ogg
+#WAV1K Cwork3-stem4.ogg
+#WAV1L Cwork3-stem3.ogg
+#WAV1M Cwork3-stem2.ogg
+#WAV1N Cwork3-stem5.ogg
+#ENDIF
+#IF 4
+#WAV1E Cwork2-stem1.ogg
+#WAV1F Cwork2-stem2.ogg
+#WAV1G Cwork2-stem4.ogg
+#WAV1H Cwork2-stem5.ogg
+#WAV1I Cwork2-stem3.ogg
+#WAV1J Cwork3-stem1.ogg
+#WAV1K Cwork3-stem5.ogg
+#WAV1L Cwork3-stem3.ogg
+#WAV1M Cwork3-stem4.ogg
+#WAV1N Cwork3-stem2.ogg
+#ENDIF
+#IF 5
+#WAV1E Cwork2-stem1.ogg
+#WAV1F Cwork2-stem2.ogg
+#WAV1G Cwork2-stem5.ogg
+#WAV1H Cwork2-stem4.ogg
+#WAV1I Cwork2-stem3.ogg
+#WAV1J Cwork3-stem1.ogg
+#WAV1K Cwork3-stem1.ogg
+#WAV1L Cwork3-stem3.ogg
+#WAV1M Cwork3-stem4.ogg
+#WAV1N Cwork3-stem5.ogg
+#ENDIF
+#IF 6
+#WAV1E Cwork2-stem1.ogg
+#WAV1F Cwork2-stem2.ogg
+#WAV1G Cwork2-stem5.ogg
+#WAV1H Cwork2-stem3.ogg
+#WAV1I Cwork2-stem4.ogg
+#WAV1J Cwork3-stem2.ogg
+#WAV1K Cwork3-stem3.ogg
+#WAV1L Cwork3-stem1.ogg
+#WAV1M Cwork3-stem4.ogg
+#WAV1N Cwork3-stem5.ogg
+#ENDIF
+#IF 7
+#WAV1E Cwork2-stem1.ogg
+#WAV1F Cwork2-stem3.ogg
+#WAV1G Cwork2-stem2.ogg
+#WAV1H Cwork2-stem4.ogg
+#WAV1I Cwork2-stem5.ogg
+#WAV1J Cwork3-stem2.ogg
+#WAV1K Cwork3-stem4.ogg
+#WAV1L Cwork3-stem1.ogg
+#WAV1M Cwork3-stem3.ogg
+#WAV1N Cwork3-stem5.ogg
+#ENDIF
+#IF 8
+#WAV1E Cwork2-stem1.ogg
+#WAV1F Cwork2-stem3.ogg
+#WAV1G Cwork2-stem2.ogg
+#WAV1H Cwork2-stem5.ogg
+#WAV1I Cwork2-stem4.ogg
+#WAV1J Cwork3-stem2.ogg
+#WAV1K Cwork3-stem5.ogg
+#WAV1L Cwork3-stem3.ogg
+#WAV1M Cwork3-stem4.ogg
+#WAV1N Cwork3-stem1.ogg
+#ENDIF
+#IF 9
+#WAV1E Cwork2-stem1.ogg
+#WAV1F Cwork2-stem4.ogg
+#WAV1G Cwork2-stem2.ogg
+#WAV1H Cwork2-stem3.ogg
+#WAV1I Cwork2-stem5.ogg
+#WAV1J Cwork3-stem2.ogg
+#WAV1K Cwork3-stem1.ogg
+#WAV1L Cwork3-stem3.ogg
+#WAV1M Cwork3-stem4.ogg
+#WAV1N Cwork3-stem5.ogg
+#ENDIF
+#IF 10
+#WAV1E Cwork2-stem1.ogg
+#WAV1F Cwork2-stem5.ogg
+#WAV1G Cwork2-stem2.ogg
+#WAV1H Cwork2-stem3.ogg
+#WAV1I Cwork2-stem4.ogg
+#WAV1J Cwork3-stem2.ogg
+#WAV1K Cwork3-stem2.ogg
+#WAV1L Cwork3-stem3.ogg
+#WAV1M Cwork3-stem4.ogg
+#WAV1N Cwork3-stem5.ogg
+#ENDIF
+#IF 11
+#WAV1E Cwork2-stem1.ogg
+#WAV1F Cwork2-stem4.ogg
+#WAV1G Cwork2-stem2.ogg
+#WAV1H Cwork2-stem5.ogg
+#WAV1I Cwork2-stem3.ogg
+#WAV1J Cwork3-stem3.ogg
+#WAV1K Cwork3-stem4.ogg
+#WAV1L Cwork3-stem1.ogg
+#WAV1M Cwork3-stem2.ogg
+#WAV1N Cwork3-stem5.ogg
+#ENDIF
+#IF 12
+#WAV1E Cwork2-stem1.ogg
+#WAV1F Cwork2-stem5.ogg
+#WAV1G Cwork2-stem2.ogg
+#WAV1H Cwork2-stem4.ogg
+#WAV1I Cwork2-stem3.ogg
+#WAV1J Cwork3-stem3.ogg
+#WAV1K Cwork3-stem5.ogg
+#WAV1L Cwork3-stem1.ogg
+#WAV1M Cwork3-stem4.ogg
+#WAV1N Cwork3-stem2.ogg
+#ENDIF
+#IF 13
+#WAV1E Cwork2-stem1.ogg
+#WAV1F Cwork2-stem3.ogg
+#WAV1G Cwork2-stem4.ogg
+#WAV1H Cwork2-stem2.ogg
+#WAV1I Cwork2-stem5.ogg
+#WAV1J Cwork3-stem3.ogg
+#WAV1K Cwork3-stem1.ogg
+#WAV1L Cwork3-stem2.ogg
+#WAV1M Cwork3-stem4.ogg
+#WAV1N Cwork3-stem5.ogg
+#ENDIF
+#IF 14
+#WAV1E Cwork2-stem1.ogg
+#WAV1F Cwork2-stem3.ogg
+#WAV1G Cwork2-stem5.ogg
+#WAV1H Cwork2-stem2.ogg
+#WAV1I Cwork2-stem4.ogg
+#WAV1J Cwork3-stem3.ogg
+#WAV1K Cwork3-stem2.ogg
+#WAV1L Cwork3-stem1.ogg
+#WAV1M Cwork3-stem4.ogg
+#WAV1N Cwork3-stem5.ogg
+#ENDIF
+#IF 15
+#WAV1E Cwork2-stem1.ogg
+#WAV1F Cwork2-stem4.ogg
+#WAV1G Cwork2-stem3.ogg
+#WAV1H Cwork2-stem2.ogg
+#WAV1I Cwork2-stem5.ogg
+#WAV1J Cwork3-stem4.ogg
+#WAV1K Cwork3-stem4.ogg
+#WAV1L Cwork3-stem3.ogg
+#WAV1M Cwork3-stem4.ogg
+#WAV1N Cwork3-stem5.ogg
+#ENDIF
+#IF 16
+#WAV1E Cwork2-stem1.ogg
+#WAV1F Cwork2-stem5.ogg
+#WAV1G Cwork2-stem3.ogg
+#WAV1H Cwork2-stem2.ogg
+#WAV1I Cwork2-stem4.ogg
+#WAV1J Cwork3-stem4.ogg
+#WAV1K Cwork3-stem5.ogg
+#WAV1L Cwork3-stem1.ogg
+#WAV1M Cwork3-stem2.ogg
+#WAV1N Cwork3-stem3.ogg
+#ENDIF
+#IF 17
+#WAV1E Cwork2-stem1.ogg
+#WAV1F Cwork2-stem4.ogg
+#WAV1G Cwork2-stem5.ogg
+#WAV1H Cwork2-stem2.ogg
+#WAV1I Cwork2-stem3.ogg
+#WAV1J Cwork3-stem4.ogg
+#WAV1K Cwork3-stem1.ogg
+#WAV1L Cwork3-stem3.ogg
+#WAV1M Cwork3-stem2.ogg
+#WAV1N Cwork3-stem5.ogg
+#ENDIF
+#IF 18
+#WAV1E Cwork2-stem1.ogg
+#WAV1F Cwork2-stem5.ogg
+#WAV1G Cwork2-stem4.ogg
+#WAV1H Cwork2-stem2.ogg
+#WAV1I Cwork2-stem3.ogg
+#WAV1J Cwork3-stem4.ogg
+#WAV1K Cwork3-stem2.ogg
+#WAV1L Cwork3-stem3.ogg
+#WAV1M Cwork3-stem1.ogg
+#WAV1N Cwork3-stem5.ogg
+#ENDIF
+#IF 19
+#WAV1E Cwork2-stem1.ogg
+#WAV1F Cwork2-stem3.ogg
+#WAV1G Cwork2-stem4.ogg
+#WAV1H Cwork2-stem5.ogg
+#WAV1I Cwork2-stem2.ogg
+#WAV1J Cwork3-stem4.ogg
+#WAV1K Cwork3-stem3.ogg
+#WAV1L Cwork3-stem1.ogg
+#WAV1M Cwork3-stem2.ogg
+#WAV1N Cwork3-stem5.ogg
+#ENDIF
+#IF 20
+#WAV1E Cwork2-stem1.ogg
+#WAV1F Cwork2-stem3.ogg
+#WAV1G Cwork2-stem5.ogg
+#WAV1H Cwork2-stem4.ogg
+#WAV1I Cwork2-stem2.ogg
+#WAV1J Cwork3-stem5.ogg
+#WAV1K Cwork3-stem5.ogg
+#WAV1L Cwork3-stem1.ogg
+#WAV1M Cwork3-stem4.ogg
+#WAV1N Cwork3-stem2.ogg
+#ENDIF
+#IF 21
+#WAV1E Cwork2-stem1.ogg
+#WAV1F Cwork2-stem4.ogg
+#WAV1G Cwork2-stem3.ogg
+#WAV1H Cwork2-stem5.ogg
+#WAV1I Cwork2-stem2.ogg
+#WAV1J Cwork3-stem5.ogg
+#WAV1K Cwork3-stem1.ogg
+#WAV1L Cwork3-stem3.ogg
+#WAV1M Cwork3-stem4.ogg
+#WAV1N Cwork3-stem2.ogg
+#ENDIF
+#IF 22
+#WAV1E Cwork2-stem1.ogg
+#WAV1F Cwork2-stem5.ogg
+#WAV1G Cwork2-stem3.ogg
+#WAV1H Cwork2-stem4.ogg
+#WAV1I Cwork2-stem2.ogg
+#WAV1J Cwork3-stem5.ogg
+#WAV1K Cwork3-stem2.ogg
+#WAV1L Cwork3-stem3.ogg
+#WAV1M Cwork3-stem4.ogg
+#WAV1N Cwork3-stem1.ogg
+#ENDIF
+#IF 23
+#WAV1E Cwork2-stem1.ogg
+#WAV1F Cwork2-stem4.ogg
+#WAV1G Cwork2-stem5.ogg
+#WAV1H Cwork2-stem3.ogg
+#WAV1I Cwork2-stem2.ogg
+#WAV1J Cwork3-stem5.ogg
+#WAV1K Cwork3-stem3.ogg
+#WAV1L Cwork3-stem1.ogg
+#WAV1M Cwork3-stem4.ogg
+#WAV1N Cwork3-stem2.ogg
+#ENDIF
+#IF 24
+#WAV1E Cwork2-stem1.ogg
+#WAV1F Cwork2-stem5.ogg
+#WAV1G Cwork2-stem4.ogg
+#WAV1H Cwork2-stem3.ogg
+#WAV1I Cwork2-stem2.ogg
+#WAV1J Cwork3-stem5.ogg
+#WAV1K Cwork3-stem4.ogg
+#WAV1L Cwork3-stem3.ogg
+#WAV1M Cwork3-stem2.ogg
+#WAV1N Cwork3-stem1.ogg
+#ENDIF
+
 
 
 *---------------------- MAIN DATA FIELD
