@@ -1,0 +1,1 @@
+return Def.Quad{ InitCommand=function(self) self:diffuse(0,0,0,1):FullScreen() end }
