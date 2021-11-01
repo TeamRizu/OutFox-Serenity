@@ -6,7 +6,7 @@
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #GENRE:House;
-#CREDIT:OutFox Community Pack;
+#CREDIT:OutFox Serenity Volume 1;
 #MUSIC:broken.opus;
 #BANNER:broken-bn.jpg;
 #BACKGROUND:broken-bg.jpg;
@@ -11998,10 +11998,10 @@ F000
 0000000000
 ;
 
-//---------------guitar-six - ----------------
+//---------------gdgf-six - ----------------
 #NOTEDATA:;
 #CHARTNAME:;
-#STEPSTYPE:guitar-six;
+#STEPSTYPE:gdgf-six;
 #DESCRIPTION:;
 #CHARTSTYLE:;
 #DIFFICULTY:Medium;
@@ -12669,10 +12669,10 @@ F000
 000000
 ;
 
-//---------------guitar-six - ----------------
+//---------------gdgf-six - ----------------
 #NOTEDATA:;
 #CHARTNAME:;
-#STEPSTYPE:guitar-six;
+#STEPSTYPE:gdgf-six;
 #DESCRIPTION:;
 #CHARTSTYLE:;
 #DIFFICULTY:Easy;
@@ -13148,10 +13148,10 @@ F000
 000000
 ;
 
-//---------------guitar-six - ----------------
+//---------------gdgf-six - ----------------
 #NOTEDATA:;
 #CHARTNAME:;
-#STEPSTYPE:guitar-six;
+#STEPSTYPE:gdgf-six;
 #DESCRIPTION:;
 #CHARTSTYLE:;
 #DIFFICULTY:Beginner;
@@ -13476,10 +13476,10 @@ F000
 000000
 ;
 
-//---------------guitar-six - ----------------
+//---------------gdgf-six - ----------------
 #NOTEDATA:;
 #CHARTNAME:;
-#STEPSTYPE:guitar-six;
+#STEPSTYPE:gdgf-six;
 #DESCRIPTION:;
 #CHARTSTYLE:;
 #DIFFICULTY:Hard;

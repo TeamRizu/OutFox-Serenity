@@ -6,7 +6,7 @@
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #GENRE:Drum & Bass;
-#CREDIT:OutFox Community Pack;
+#CREDIT:OutFox Serenity Volume 1;
 #MUSIC:Nexen II (Phase Two).opus;
 #BANNER:nexen-ii-p2-bn.png;
 #BACKGROUND:jack5-bg.png;
@@ -12549,10 +12549,10 @@ M000
 100001000
 ;
 
-//---------------guitar-five - ----------------
+//---------------gdgf-five - ----------------
 #NOTEDATA:;
 #CHARTNAME:;
-#STEPSTYPE:guitar-five;
+#STEPSTYPE:gdgf-five;
 #DESCRIPTION:;
 #CHARTSTYLE:;
 #DIFFICULTY:Hard;
@@ -14023,10 +14023,10 @@ M000
 00000
 ;
 
-//---------------guitar-five - ----------------
+//---------------gdgf-five - ----------------
 #NOTEDATA:;
 #CHARTNAME:;
-#STEPSTYPE:guitar-five;
+#STEPSTYPE:gdgf-five;
 #DESCRIPTION:;
 #CHARTSTYLE:;
 #DIFFICULTY:Medium;
@@ -15338,10 +15338,10 @@ M000
 00000
 ;
 
-//---------------guitar-five - ----------------
+//---------------gdgf-five - ----------------
 #NOTEDATA:;
 #CHARTNAME:;
-#STEPSTYPE:guitar-five;
+#STEPSTYPE:gdgf-five;
 #DESCRIPTION:;
 #CHARTSTYLE:;
 #DIFFICULTY:Easy;
@@ -16277,10 +16277,10 @@ M000
 00000
 ;
 
-//---------------guitar-five - ----------------
+//---------------gdgf-five - ----------------
 #NOTEDATA:;
 #CHARTNAME:;
-#STEPSTYPE:guitar-five;
+#STEPSTYPE:gdgf-five;
 #DESCRIPTION:;
 #CHARTSTYLE:;
 #DIFFICULTY:Beginner;
