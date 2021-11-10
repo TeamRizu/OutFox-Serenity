@@ -1,0 +1,18 @@
+# Music
+"Tagebuch der vergangenen Erinnerungen" © 2021 by PizeroFox is licensed under Attribution-ShareAlike 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
+https://www.teufelstruhe.de
+
+Software used:
+	FL Studio - version 20.8
+	https://www.image-line.com/legal/
+include Samples from Zero-G:
+	"Zero-G  Nu Disco"
+	"Zero-G  SoundSense  Ambiosis" 
+	https://zero-g.co.uk/pages/license-info
+
+# Graphics
+All artwork by ARTPhantom17, licensed under CC-BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/>
+https://speed-demon17.carrd.co
+
+"Choko" Font ( https://www.fontspace.com/choko-font-f23776 ) by Måns Grebäck, licensed as Freeware
+"Snoorks" Font ( https://www.fontspace.com/snoorks-font-f47546 ) by Edric Studio, licensed as Freeware
