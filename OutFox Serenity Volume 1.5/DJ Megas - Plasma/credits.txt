@@ -1,3 +1,7 @@
 # Music
 
 Plasma by DJ Megas, licensed under CC BY-NC-SA 3.0 License https://creativecommons.org/licenses/by-nc-sa/3.0/
+
+# Graphics
+
+"plasma.png" Background by Akira Sora, licensed under CC-BY 4.0 <https://creativecommons.org/licenses/by/4.0/>
