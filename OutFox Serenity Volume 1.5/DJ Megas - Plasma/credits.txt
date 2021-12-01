@@ -4,4 +4,3 @@ Plasma by DJ Megas, licensed under CC BY-NC-SA 3.0 License https://creativecommo
 
 # Graphics
 
-"Plasma-bg.png" Background by Akira Sora, licensed under CC-BY 4.0 <https://creativecommons.org/licenses/by/4.0/>
