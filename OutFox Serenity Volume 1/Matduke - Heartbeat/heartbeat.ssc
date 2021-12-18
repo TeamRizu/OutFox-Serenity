@@ -33,17 +33,16 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-//---------------pump-single - Modchart----------------
+//---------------pump-single - ----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
-#DESCRIPTION:Modchart;
+#DESCRIPTION:;
 #CHARTSTYLE:;
 #DIFFICULTY:Easy;
 #METER:7;
 #RADARVALUES:0.371404,0.457694,0.186814,0.140111,0.245193,334.000000,310.000000,24.000000,18.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.371404,0.457694,0.186814,0.140111,0.245193,334.000000,310.000000,24.000000,18.000000,0.000000,0.000000,0.000000,0.000000,0.000000;
 #CREDIT:Jack5;
-#ATTACKS:TIME=67.769997:LEN=5.300000:MODS=*0.188 200% Tilt,*0.188 0.75x:TIME=73.070000:LEN=0.350000:MODS=*999 Alternate,*999 Centered,*999 No Tilt,*999 1x,*999 -100% DrawSize:TIME=73.419998:LEN=10.940000:MODS=*999 Alternate,*999 Centered,*999 DrawSize,*999 200% Beat,*999 BeatY,*999 50% PulseOuter,*999 50% PulseInner:TIME=84.360001:LEN=0.090000:MODS=*999 Alternate,*999 Centered,*999 No Beat,*999 No BeatY,*999 No PulseOuter,*999 No PulseInner,*999 Split:TIME=84.449997:LEN=0.090000:MODS=*999 Alternate,*999 Centered,*999 Split,*999 Cross:TIME=84.540001:LEN=0.090000:MODS=*999 Alternate,*999 Centered,*999 No Split,*999 Cross,*999 Reverse:TIME=84.629997:LEN=0.090000:MODS=*999 Alternate,*999 Centered,*999 Cross,*999 No Reverse:TIME=84.709999:LEN=10.950000:MODS=*999 Alternate,*999 Centered,*999 Cross,*999 Reverse,*999 Split,*999 -200% Beat,*999 BeatY,*999 50% PulseOuter,*999 50% PulseInner:TIME=95.660004:LEN=11.280000:MODS=*999 Alternate,*999 Centered,*999 Cross,*4.25 No Reverse,*999 Split,*5.6 Beat,*5.6 200% BeatY,*999 50% PulseOuter,*999 50% PulseInner,*5.6 -50% Drunk:TIME=106.940002:LEN=0.090000:MODS=*999 Alternate,*999 Centered,*999 No Cross,*999 Split,*999 No Beat,*999 No BeatY,*999 No PulseOuter,*999 No PulseInner,*999 No Drunk:TIME=107.029999:LEN=0.090000:MODS=*999 No Alternate,*999 Centered,*999 Split:TIME=107.120003:LEN=0.090000:MODS=*999 Centered,*999 Split,*999 Reverse:TIME=107.209999:LEN=0.090000:MODS=*999 Alternate,*999 Centered,*999 No Split,*999 Reverse:TIME=107.300003:LEN=9.880000:MODS=*999 No Alternate,*999 Centered,*999 No Split,*999 Reverse,*999 Cross,*999 -100% Beat,*999 200% BeatY,*999 50% PulseOuter,*999 50% PulseInner,*999 50% Drunk:TIME=117.180000:LEN=999.000000:MODS=*999 Centered,*999 Reverse,*999 Cross,*6 No Beat,*6 No BeatY,*0.35 No PulseOuter,*0.35 No PulseInner,*0.35 No Drunk;
 #NOTES:
 00000
 00000
@@ -1035,17 +1034,16 @@
 00000
 ;
 
-//---------------pump-single - Modchart----------------
+//---------------pump-single - ----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
-#DESCRIPTION:Modchart;
+#DESCRIPTION:;
 #CHARTSTYLE:;
 #DIFFICULTY:Beginner;
 #METER:4;
 #RADARVALUES:0.186814,0.261540,0.077839,0.132327,0.000000,168.000000,158.000000,10.000000,17.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.186814,0.261540,0.077839,0.132327,0.000000,168.000000,158.000000,10.000000,17.000000,0.000000,0.000000,0.000000,0.000000,0.000000;
 #CREDIT:Jack5;
-#ATTACKS:TIME=67.769997:LEN=5.300000:MODS=*0.188 200% Tilt,*0.188 0.75x:TIME=73.070000:LEN=0.350000:MODS=*999 Alternate,*999 Centered,*999 No Tilt,*999 1x,*999 -100% DrawSize:TIME=73.419998:LEN=10.940000:MODS=*999 Alternate,*999 Centered,*999 DrawSize,*999 Beat,*999 50% BeatY,*999 50% PulseOuter,*999 50% PulseInner:TIME=84.360001:LEN=0.090000:MODS=*999 Alternate,*999 Centered,*999 No Beat,*999 No BeatY,*999 No PulseOuter,*999 No PulseInner,*999 Split:TIME=84.449997:LEN=0.090000:MODS=*999 Alternate,*999 Centered,*999 Split,*999 Cross:TIME=84.540001:LEN=0.090000:MODS=*999 Alternate,*999 Centered,*999 No Split,*999 Cross,*999 Reverse:TIME=84.629997:LEN=0.090000:MODS=*999 Alternate,*999 Centered,*999 Cross,*999 No Reverse:TIME=84.709999:LEN=10.950000:MODS=*999 Alternate,*999 Centered,*999 Cross,*999 Reverse,*999 Split,*999 -100% Beat,*999 50% BeatY,*999 50% PulseOuter,*999 50% PulseInner:TIME=95.660004:LEN=11.280000:MODS=*999 Alternate,*999 Centered,*999 Cross,*4.25 No Reverse,*999 Split,*5.6 50% Beat,*5.6 BeatY,*999 50% PulseOuter,*999 50% PulseInner:TIME=106.940002:LEN=0.090000:MODS=*999 Alternate,*999 Centered,*999 No Cross,*999 Split,*999 No Beat,*999 No BeatY,*999 No PulseOuter,*999 No PulseInner:TIME=107.029999:LEN=0.090000:MODS=*999 No Alternate,*999 Centered,*999 Split:TIME=107.120003:LEN=0.090000:MODS=*999 Centered,*999 Split,*999 Reverse:TIME=107.209999:LEN=0.090000:MODS=*999 Alternate,*999 Centered,*999 No Split,*999 Reverse:TIME=107.300003:LEN=9.880000:MODS=*999 No Alternate,*999 Centered,*999 No Split,*999 Reverse,*999 Cross,*999 -50% Beat,*999 BeatY,*999 50% PulseOuter,*999 50% PulseInner:TIME=117.180000:LEN=999.000000:MODS=*999 Centered,*999 Reverse,*999 Cross,*6 No Beat,*6 No BeatY,*0.35 No PulseOuter,*0.35 No PulseInner;
 #NOTES:
 00000
 00000
@@ -1709,29 +1707,13 @@
 00000
 ;
 
-//--------------- pump-single - Modchart ----------------
+//--------------- pump-single - ----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
-#DESCRIPTION:Modchart;
+#DESCRIPTION:;
 #DIFFICULTY:Medium;
 #METER:12;
 #RADARVALUES:0.55377,0.686542,0.817311,0.140111,0.221842,498,393,105,18,0,0,0,0,0,0.55377,0.686542,0.817311,0.140111,0.221842,498,393,105,18,0,0,0,0,0;
-#ATTACKS:TIME=67.770:LEN=5.300:MODS=*0.188 200% Tilt,*0.188 0.75x
-:TIME=73.070:LEN=0.350:MODS=*999 Alternate,*999 Centered,*999 No Tilt,*999 1x,*999 -100% DrawSize
-:TIME=73.420:LEN=10.940:MODS=*999 Alternate,*999 Centered,*999 DrawSize,*999 200% Beat,*999 BeatY,*999 50% PulseOuter,*999 50% PulseInner
-:TIME=84.360:LEN=0.090:MODS=*999 Alternate,*999 Centered,*999 No Beat,*999 No BeatY,*999 No PulseOuter,*999 No PulseInner,*999 Split
-:TIME=84.450:LEN=0.090:MODS=*999 Alternate,*999 Centered,*999 Split,*999 Cross
-:TIME=84.540:LEN=0.090:MODS=*999 Alternate,*999 Centered,*999 No Split,*999 Cross,*999 Reverse
-:TIME=84.630:LEN=0.090:MODS=*999 Alternate,*999 Centered,*999 Cross,*999 No Reverse
-:TIME=84.710:LEN=10.950:MODS=*999 Alternate,*999 Centered,*999 Cross,*999 Reverse,*999 Split,*999 -200% Beat,*999 BeatY,*999 50% PulseOuter,*999 50% PulseInner
-:TIME=95.660:LEN=11.280:MODS=*999 Alternate,*999 Centered,*999 Cross,*4.25 No Reverse,*999 Split,*5.6 Beat,*5.6 200% BeatY,*999 50% PulseOuter,*999 50% PulseInner,*5.6 -50% Drunk
-:TIME=106.940:LEN=0.090:MODS=*999 Alternate,*999 Centered,*999 No Cross,*999 Split,*999 No Beat,*999 No BeatY,*999 No PulseOuter,*999 No PulseInner,*999 No Drunk
-:TIME=107.030:LEN=0.090:MODS=*999 No Alternate,*999 Centered,*999 Split
-:TIME=107.120:LEN=0.090:MODS=*999 Centered,*999 Split,*999 Reverse
-:TIME=107.210:LEN=0.090:MODS=*999 Alternate,*999 Centered,*999 No Split,*999 Reverse
-:TIME=107.300:LEN=9.880:MODS=*999 No Alternate,*999 Centered,*999 No Split,*999 Reverse,*999 Cross,*999 -100% Beat,*999 200% BeatY,*999 50% PulseOuter,*999 50% PulseInner,*999 50% Drunk
-:TIME=117.180:LEN=999.000:MODS=*999 Centered,*999 Reverse,*999 Cross,*6 No Beat,*6 No BeatY,*0.35 No PulseOuter,*0.35 No PulseInner,*0.35 No Drunk
-;
 #CHARTNAME:;
 #CHARTSTYLE:;
 #CREDIT:Jack5;
