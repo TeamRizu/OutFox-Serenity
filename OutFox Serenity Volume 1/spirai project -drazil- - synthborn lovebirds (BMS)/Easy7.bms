@@ -9,7 +9,6 @@
 #PLAYLEVEL 1
 #RANK 2
 
-
 #DIFFICULTY 1
 #TOTAL 408
 #LNTYPE 1
@@ -451,6 +450,11 @@
 #WAVC3 Vital-52p-.ogg
 #WAVC4 voxal-10a.ogg
 #WAVC5 voxal-10b.ogg
+
+
+*---------------------- EXPANSION FIELD
+#CREDIT Daniel Rotwind
+#MAKER Daniel Rotwind
 
 
 *---------------------- MAIN DATA FIELD

@@ -9,7 +9,6 @@
 #PLAYLEVEL 6
 #RANK 2
 
-
 #DIFFICULTY 3
 #TOTAL 431
 #LNTYPE 1
@@ -459,6 +458,11 @@
 #WAVCB sp-hihatChord-11.ogg
 #WAVCC nitedrivB-mix080910fade.ogg
 #WAVCD sp-revCrashCrash.ogg
+
+
+*---------------------- EXPANSION FIELD
+#CREDIT Daniel Rotwind
+#MAKER Daniel Rotwind
 
 
 *---------------------- MAIN DATA FIELD
