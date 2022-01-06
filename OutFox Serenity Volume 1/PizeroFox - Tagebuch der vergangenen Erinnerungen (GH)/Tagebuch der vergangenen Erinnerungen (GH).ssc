@@ -9,8 +9,8 @@
 #CREDIT:OutFox Serenity Volume 1;
 #MUSIC:song.opus;
 #INSTRUMENTTRACK:Guitar=guitar.opus;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:Tagebuch-bn.png;
+#BACKGROUND:Tagebuch-bg.png;
 #CDTITLE:;
 #SAMPLESTART:40.421;
 #SAMPLELENGTH:20.211;

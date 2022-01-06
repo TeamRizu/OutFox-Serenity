@@ -7,10 +7,10 @@
 #ARTISTTRANSLIT:;
 #GENRE:;
 #CREDIT:;
-#MUSIC:song.ogg;
-#INSTRUMENTTRACK:Guitar=guitar.ogg,Bass=bass.ogg;
-#BANNER:;
-#BACKGROUND:;
+#MUSIC:song.opus;
+#INSTRUMENTTRACK:Guitar=guitar.opus,Bass=bass.opus;
+#BANNER:synthborn-bn.png;
+#BACKGROUND:synthborn-bg.png;
 #CDTITLE:;
 #SAMPLESTART:43.639;
 #SAMPLELENGTH:17.455;
