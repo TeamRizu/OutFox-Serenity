@@ -14728,7 +14728,8 @@ GH00000
 //--------------- pnm-nine - Telperion ----------------
 #NOTEDATA:;
 #STEPSTYPE:pnm-nine;
-#DESCRIPTION:Telperion;
+#DESCRIPTION:;
+#CREDIT:Telperion;
 #DIFFICULTY:Hard;
 #METER:43;
 #RADARVALUES:0,0,0,0,0;
@@ -16040,10 +16041,11 @@ GH00000
 //--------------- pnm-nine - Telperion ----------------
 #NOTEDATA:;
 #STEPSTYPE:pnm-nine;
-#DESCRIPTION:Telperion;
+#DESCRIPTION:;
 #DIFFICULTY:Challenge;
 #METER:47;
 #RADARVALUES:0,0,0,0,0;
+#CREDIT:Telperion;
 #NOTES:
 000000000
 000000000
