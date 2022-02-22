@@ -10,6 +10,7 @@
 #MUSIC:Nexen II (Phase Two).opus;
 #BANNER:nexen-ii-p2-bn.png;
 #BACKGROUND:jack5-bg.png;
+#LYRICSPATH:lyrics.lrc;
 #CDTITLE:;
 #SAMPLESTART:94.722;
 #SAMPLELENGTH:16.000;
