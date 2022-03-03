@@ -36,9 +36,7 @@
 #SCROLLS:0.000=1.000;
 #FAKES:;
 #LABELS:0.000=Song Start;
-#BGCHANGES:0.000=BG=1.000=0=0=1=====,
-99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
-;
+#BGCHANGES:0.000=BG=1.000=0=0=1=====;
 #FGCHANGES:0.000=FG=1.000=0=0=1=====,
 ;
 #KEYSOUNDS:;

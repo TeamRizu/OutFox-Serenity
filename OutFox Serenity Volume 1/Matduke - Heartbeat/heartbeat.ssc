@@ -29,9 +29,7 @@
 303.500=matduke-bg2.png=1.000=0=0=1=====,
 303.750=dark.lua=1.000=0=0=1=====,
 304.000=pulsing.lua=1.000=0=0=1=====,
-336.000=heartbeat-bg.png=1.000=1=0=1===CrossFade==,
-99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
-;
+336.000=heartbeat-bg.png=1.000=1=0=1===CrossFade==;
 
 //---------------pump-single - ----------------
 #NOTEDATA:;
