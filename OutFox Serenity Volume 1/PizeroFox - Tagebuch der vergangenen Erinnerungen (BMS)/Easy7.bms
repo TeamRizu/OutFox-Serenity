@@ -8,11 +8,12 @@
 #BPM 95
 #PLAYLEVEL 1
 #RANK 2
-#PREVIEW preview.ogg
+
 
 #DIFFICULTY 1
 #TOTAL 336
 #LNTYPE 1
+#PREVIEW preview.ogg
 
 #WAV01 alon1.ogg
 #WAV02 alon2.ogg
@@ -129,13 +130,12 @@
 #WAV35 VibesD7.ogg
 #WAV36 VibesD8.ogg
 #WAV37 VibesD9.ogg
-#BMP01 BG0.png
+#BMP01 Tagebuch-bga.mkv
 
 
 *---------------------- EXPANSION FIELD
 #CREDIT Daniel Rotwind
 #MAKER Daniel Rotwind
-
 #RANDOM 24
 #IF 1
 #ENDIF
@@ -422,6 +422,7 @@
 
 
 #00001:0000002100000000
+#00004:01
 #00019:20
 
 #00101:0000002300000000

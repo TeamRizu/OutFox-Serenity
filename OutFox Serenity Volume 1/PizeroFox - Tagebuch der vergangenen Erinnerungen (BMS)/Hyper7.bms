@@ -8,11 +8,12 @@
 #BPM 95
 #PLAYLEVEL 6
 #RANK 2
-#PREVIEW preview.ogg
+
 
 #DIFFICULTY 3
 #TOTAL 337
 #LNTYPE 1
+#PREVIEW preview.ogg
 #LNMODE 1
 
 #WAV01 alon1.ogg
@@ -146,7 +147,7 @@
 #WAV3L Clock7lo.ogg
 #WAV3M Clock8hi.ogg
 #WAV3N Clock8lo.ogg
-#BMP01 BG0.png
+#BMP01 Tagebuch-bga.mkv
 
 
 *---------------------- EXPANSION FIELD
@@ -437,6 +438,7 @@
 *---------------------- MAIN DATA FIELD
 
 
+#00004:01
 #00015:3900003B00000000
 #00019:3800003A00000000
 

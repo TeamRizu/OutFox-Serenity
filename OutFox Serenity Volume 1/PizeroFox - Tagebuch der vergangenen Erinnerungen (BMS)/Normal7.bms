@@ -8,11 +8,12 @@
 #BPM 95
 #PLAYLEVEL 2
 #RANK 2
-#PREVIEW preview.ogg
+
 
 #DIFFICULTY 2
 #TOTAL 445
 #LNTYPE 1
+#PREVIEW preview.ogg
 
 #WAV01 alon1.ogg
 #WAV02 alon2.ogg
@@ -129,7 +130,7 @@
 #WAV35 VibesD7.ogg
 #WAV36 VibesD8.ogg
 #WAV37 VibesD9.ogg
-#BMP01 BG0.png
+#BMP01 Tagebuch-bga.mkv
 
 
 *---------------------- EXPANSION FIELD
@@ -420,6 +421,7 @@
 *---------------------- MAIN DATA FIELD
 
 
+#00004:01
 #00019:2000002100000000
 
 #00115:2200002300000000
