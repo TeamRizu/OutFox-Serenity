@@ -1,0 +1,18 @@
+# Music
+
+"Technological = Emotional" © 2021 by Ace of Beat is licensed under Attribution-ShareAlike 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
+https://www.teufelstruhe.de
+
+Software used:
+	FL Studio - version 20.8
+	https://www.image-line.com/legal/
+include Samples from Zero-G:
+	"Zero-G  Koncept & Funktion"
+	"Zero-G  Monster Beats"
+	"Zero-G  Vocal XTC"
+	"Zero-G  SoundSense  Elektrolytic" 
+	https://zero-g.co.uk/pages/license-info
+includes Samples from Soundtrack Loops
+	"Soundtrack Loops  Corrosive Machines"
+	"Soundtrack Loops  Synthwave Phrases"
+	https://soundtrackloops.com/eula-legal/

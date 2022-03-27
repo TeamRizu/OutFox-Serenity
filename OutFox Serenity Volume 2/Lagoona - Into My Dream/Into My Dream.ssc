@@ -1,0 +1,26 @@
+#VERSION:0.83;
+#TITLE:Into My Dream;
+#SUBTITLE:(feat. Åsa Järleros);
+#ARTIST:Lagoona;
+#TITLETRANSLIT:;
+#SUBTITLETRANSLIT:;
+#ARTISTTRANSLIT:;
+#GENRE:Trance;
+#CREDIT:OutFox Serenity Volume 2;
+#MUSIC:Into My Dream.ogg;
+#BANNER:;
+#BACKGROUND:;
+#LYRICSPATH:lyrics.lrc;
+#CDTITLE:;
+#SAMPLESTART:27.429;
+#SAMPLELENGTH:27.429;
+#SELECTABLE:YES;
+#OFFSET:0.000;
+#BPMS:0.000=140.000;
+#STOPS:;
+#TIMESIGNATURES:0.000=2=4,
+2.000=4=4
+;
+#BGCHANGES:-1.000=white reverse flash=1.000=0=0=1===CrossFade_Fastest=#000000=,
+0.000=Into My Dream-bga.mp4=1.000=0=0=1=====;
+#FGCHANGES:;
