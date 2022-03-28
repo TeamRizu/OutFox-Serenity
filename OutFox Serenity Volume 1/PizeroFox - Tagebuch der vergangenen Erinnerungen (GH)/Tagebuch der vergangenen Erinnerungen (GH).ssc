@@ -7,8 +7,8 @@
 #ARTISTTRANSLIT:;
 #GENRE:Calm Disturbance;
 #CREDIT:OutFox Serenity Volume 1;
-#MUSIC:song.opus;
-#INSTRUMENTTRACK:Guitar=guitar.opus;
+#MUSIC:song.ogg;
+#INSTRUMENTTRACK:Guitar=guitar.ogg;
 #BANNER:Tagebuch-bn.png;
 #BACKGROUND:Tagebuch-bg.png;
 #CDTITLE:;
