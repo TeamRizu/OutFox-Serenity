@@ -1,0 +1,25 @@
+﻿[Song]
+{
+  Name = "synthborn lovebirds"
+  Artist = "spirai project 'drazil'"
+  Album = "OutFox Serenity Volume 1"
+  Year = ", 2021"
+  Offset = 0
+  Resolution = 192
+  Player2 = bass
+  Difficulty = 0
+  PreviewStart = 0
+  PreviewEnd = 0
+  MediaType = "outfox"
+  MusicStream = "song.ogg"
+  GuitarStream = "guitar.ogg"
+  BassStream = "bass.ogg"
+}
+[SyncTrack]
+{
+  0 = TS 4
+  0 = B 110000
+}
+[Events]
+{
+}

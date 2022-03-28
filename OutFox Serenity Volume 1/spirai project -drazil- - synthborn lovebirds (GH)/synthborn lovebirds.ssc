@@ -7,8 +7,8 @@
 #ARTISTTRANSLIT:;
 #GENRE:;
 #CREDIT:;
-#MUSIC:song.opus;
-#INSTRUMENTTRACK:Guitar=guitar.opus,Bass=bass.opus;
+#MUSIC:song.ogg;
+#INSTRUMENTTRACK:Guitar=guitar.ogg,Bass=bass.ogg;
 #BANNER:synthborn-bn.png;
 #BACKGROUND:synthborn-bg.png;
 #CDTITLE:;
