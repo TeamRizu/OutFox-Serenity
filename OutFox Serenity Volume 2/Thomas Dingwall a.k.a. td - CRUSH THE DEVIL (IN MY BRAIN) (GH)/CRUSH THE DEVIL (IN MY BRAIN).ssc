@@ -8,7 +8,7 @@
 #GENRE:Rock;
 #CREDIT:OutFox Serenity Volume 2;
 #MUSIC:song.ogg;
-#INSTRUMENTTRACK:Guitar=guitar.ogg,Bass=bass.ogg;
+#INSTRUMENTTRACK:Guitar=guitar.ogg,Rhythm=rhythm.ogg,Bass=bass.ogg;
 #BANNER:;
 #BACKGROUND:;
 #LYRICSPATH:CRUSH_THE_DEVIL_IN_MY_BRAIN.lrc;
