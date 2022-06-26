@@ -1,3 +1,11 @@
+# Graphics
+
+Fonts used:
+
+"Contrail One" https://fonts.google.com/specimen/Contrail+One licensed under Open Font License.
+
+Inspiration and artwork taken from the game "Fech The Ferret": https://store.steampowered.com/app/1382980/Fech_The_Ferret/
+
 # Music
 
 chop chop by Rilliam is licensed under CC-BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/

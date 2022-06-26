@@ -8,9 +8,10 @@
 #GENRE:Ferretstep;
 #CREDIT:OutFox Serenity Volume 2;
 #MUSIC:chop chop.ogg;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:Banner.png;
+#BACKGROUND:Background.png;
 #CDTITLE:;
+#JACKET:Jacket.png;
 #SAMPLESTART:33.882;
 #SAMPLELENGTH:11.294;
 #SELECTABLE:YES;
