@@ -8,8 +8,9 @@
 #GENRE:Techno Dance;
 #CREDIT:OutFox Serenity Volume 2;
 #MUSIC:Neutralize (PTB10 Mix).ogg;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:BannerA.png;
+#BACKGROUND:Background.png;
+#JACKET:Jacket.png;
 #CDTITLE:;
 #SAMPLESTART:67.200;
 #SAMPLELENGTH:10.971;
