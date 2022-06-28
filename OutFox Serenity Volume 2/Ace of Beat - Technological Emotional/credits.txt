@@ -16,3 +16,7 @@ includes Samples from Soundtrack Loops
 	"Soundtrack Loops  Corrosive Machines"
 	"Soundtrack Loops  Synthwave Phrases"
 	https://soundtrackloops.com/eula-legal/
+
+# Graphics
+
+Graphics by Lirodon, licensed under CC BY-SA 4.0 License https://creativecommons.org/licenses/by-sa/4.0/
