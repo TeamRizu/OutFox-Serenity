@@ -8,9 +8,10 @@
 #GENRE:Tropical House;
 #CREDIT:OutFox Serenity Volume 2;
 #MUSIC:Beatucada.ogg;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:Banner.png;
+#BACKGROUND:Background.png;
 #CDTITLE:;
+#JACKET:Jacket.png;
 #SAMPLESTART:39.344;
 #SAMPLELENGTH:15.738;
 #SELECTABLE:YES;
