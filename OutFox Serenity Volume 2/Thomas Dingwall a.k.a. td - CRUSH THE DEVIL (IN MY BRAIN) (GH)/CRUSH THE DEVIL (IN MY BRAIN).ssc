@@ -9,10 +9,11 @@
 #CREDIT:OutFox Serenity Volume 2;
 #MUSIC:song.ogg;
 #INSTRUMENTTRACK:Guitar=guitar.ogg,Rhythm=rhythm.ogg,Bass=bass.ogg;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:banner.png;
+#BACKGROUND:background.png;
 #LYRICSPATH:CRUSH_THE_DEVIL_IN_MY_BRAIN.lrc;
 #CDTITLE:;
+#JACKET:jacket.png;
 #SAMPLESTART:51.600;
 #SAMPLELENGTH:19.200;
 #SELECTABLE:YES;
