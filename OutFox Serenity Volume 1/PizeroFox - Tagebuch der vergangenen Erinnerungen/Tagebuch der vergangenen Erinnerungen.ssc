@@ -8,8 +8,9 @@
 #GENRE:Calm Disturbance;
 #CREDIT:OutFox Serenity Volume 1;
 #MUSIC:Tagebuch der vergangenen Erinnerungen.opus;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:Tagebuch-bn.png;
+#BACKGROUND:Tagebuch-bg.png;
+#PREVIEWVID:Tagebuch-bga-p.mp4;
 #CDTITLE:;
 #SAMPLESTART:20.211;
 #SAMPLELENGTH:20.211;
