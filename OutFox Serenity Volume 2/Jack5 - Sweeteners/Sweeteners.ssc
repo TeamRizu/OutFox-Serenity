@@ -8,9 +8,10 @@
 #GENRE:Dubstep;
 #CREDIT:OutFox Serenity Volume 2;
 #MUSIC:Sweeteners.ogg;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:banner.jpg;
+#BACKGROUND:background.jpg;
 #LYRICSPATH:lyrics.lrc;
+#JACKET:jacket.jpg;
 #CDTITLE:;
 #SAMPLESTART:99.020;
 #SAMPLELENGTH:25.098;
