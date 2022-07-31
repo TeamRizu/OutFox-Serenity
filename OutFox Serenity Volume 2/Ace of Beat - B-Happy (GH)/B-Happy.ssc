@@ -9,8 +9,9 @@
 #CREDIT:OutFox Serenity Volume 2;
 #MUSIC:song.ogg;
 #INSTRUMENTTRACK:Guitar=guitar.ogg,Bass=bass.ogg;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:banner.png;
+#BACKGROUND:background.png;
+#JACKET:jacket.png;
 #CDTITLE:;
 #SAMPLESTART:42.985;
 #SAMPLELENGTH:14.328;

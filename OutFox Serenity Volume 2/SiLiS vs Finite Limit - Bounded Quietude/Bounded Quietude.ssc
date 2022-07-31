@@ -8,9 +8,10 @@
 #GENRE:Symphonic Metal;
 #CREDIT:OutFox Serenity Volume 2;
 #MUSIC:Bounded Quietude.ogg;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:banner.png;
+#BACKGROUND:bg.png;
 #CDTITLE:;
+#JACKET:jacket.png;
 #SAMPLESTART:55.611;
 #SAMPLELENGTH:13.714;
 #SELECTABLE:YES;
