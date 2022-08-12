@@ -16,7 +16,6 @@
 #DIFFICULTY 1
 #TOTAL 336
 #LNTYPE 1
-#PREVIEW preview.ogg
 
 #WAV01 alon1.ogg
 #WAV02 alon2.ogg
@@ -123,10 +122,11 @@
 #WAV35 VibesD7.ogg
 #WAV36 VibesD8.ogg
 #WAV37 VibesD9.ogg
-#BMP01 Tagebuch-bga.mkv
 
 
 *---------------------- EXPANSION FIELD
+#PREVIEW preview.ogg
+#BMP01 Tagebuch-bga.mp4
 #CREDIT Daniel Rotwind
 #MAKER Daniel Rotwind
 #RANDOM 24
@@ -418,6 +418,7 @@
 #WAV1M Cwork3-stem2.ogg
 #WAV1N Cwork3-stem1.ogg
 #ENDIF
+
 
 
 

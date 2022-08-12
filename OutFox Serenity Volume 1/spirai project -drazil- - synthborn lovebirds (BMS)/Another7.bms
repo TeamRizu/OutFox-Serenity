@@ -9,10 +9,13 @@
 #PLAYLEVEL 8
 #RANK 2
 
+#STAGEFILE synthborn-bg.png
+#BANNER synthborn-bn.png
+#BACKBMP synthborn-jk.png
+
 #DIFFICULTY 4
 #TOTAL 395
 #LNTYPE 1
-#LNMODE 1
 
 #WAV01 crsh.ogg
 #WAV02 nitedriv-01.ogg
@@ -462,13 +465,19 @@
 
 
 *---------------------- EXPANSION FIELD
+#LNMODE 1
 #CREDIT Daniel Rotwind
 #MAKER Daniel Rotwind
+#BMP01 synthborn-bg.png
+#PREVIEW preview.ogg
+
+
 
 
 *---------------------- MAIN DATA FIELD
 
 
+#00004:01
 
 #00111:0Q0S0U0W0Y101214
 #00113:000R000T000V000X000Z001100130015

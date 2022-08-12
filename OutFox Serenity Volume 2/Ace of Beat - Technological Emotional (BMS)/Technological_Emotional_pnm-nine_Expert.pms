@@ -1,4 +1,4 @@
-
+﻿
 *---------------------- HEADER FIELD
 
 #PLAYER 3
@@ -8,12 +8,11 @@
 #BPM 167
 #PLAYLEVEL 47
 #RANK 3
-#PREVIEW preview.ogg
-#CREDIT Telperion
-#MAKER Telperion
-
 
 #SUBARTIST obj: Telperion
+#STAGEFILE te-bg.jpg
+#BANNER te-bn.jpg
+#BACKBMP te-jk.jpg
 
 #DIFFICULTY 5
 #TOTAL 360
@@ -417,6 +416,9 @@
 
 *---------------------- EXPANSION FIELD
 #PREVIEW preview.ogg
+#CREDIT Telperion
+#MAKER Telperion
+#BMP01 te-bg.jpg
 
 
 
@@ -424,6 +426,7 @@
 *---------------------- MAIN DATA FIELD
 
 
+#00004:01
 
 #00111:14000019
 #00112:00160000

@@ -8,11 +8,13 @@
 #BPM 170
 #PLAYLEVEL 8
 #RANK 3
-#PREVIEW preview.ogg
-#MAKER Daniel Rotwind
-#CREDIT Daniel Rotwind
+
+#STAGEFILE Background.png
+#BANNER Banner.png
+#BACKBMP Jacket.png
 
 #DIFFICULTY 3
+#TOTAL 433
 #LNTYPE 1
 
 #WAV01 ccLead_000.ogg
@@ -1304,16 +1306,17 @@
 
 
 *---------------------- EXPANSION FIELD
-#CREDIT Daniel Rotwind
-#MAKER Daniel Rotwind
 #PREVIEW preview.ogg
-
+#MAKER Daniel Rotwind
+#CREDIT Daniel Rotwind
+#BMP01 Background.png
 
 
 
 *---------------------- MAIN DATA FIELD
 
 
+#00004:01
 
 #00101:0102000300000405
 #00101:00

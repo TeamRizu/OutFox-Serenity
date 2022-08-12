@@ -8,7 +8,10 @@
 #BPM 167
 #PLAYLEVEL 2
 #RANK 3
-#PREVIEW preview.ogg
+
+#STAGEFILE te-bg.jpg
+#BANNER te-bn.jpg
+#BACKBMP te-jk.jpg
 
 #DIFFICULTY 1
 #TOTAL 280
@@ -411,15 +414,17 @@
 
 
 *---------------------- EXPANSION FIELD
+#PREVIEW preview.ogg
 #CREDIT Daniel Rotwind
 #MAKER Daniel Rotwind
-
+#BMP01 te-bg.jpg
 
 
 
 *---------------------- MAIN DATA FIELD
 
 
+#00004:01
 
 #00101:141516171800191A
 

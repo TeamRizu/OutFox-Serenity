@@ -8,9 +8,10 @@
 #BPM 170
 #PLAYLEVEL 16
 #RANK 3
-#MAKER Daniel Rotwind
-#CREDIT Daniel Rotwind
-#PREVIEW preview.ogg
+
+#STAGEFILE Background.png
+#BANNER Banner.png
+#BACKBMP Jacket.png
 
 #DIFFICULTY 2
 #TOTAL 300
@@ -1304,10 +1305,18 @@
 #WAVZQ ccSFX_022.ogg
 
 
+*---------------------- EXPANSION FIELD
+#MAKER Daniel Rotwind
+#CREDIT Daniel Rotwind
+#PREVIEW preview.ogg
+#BMP01 Background.png
+
+
 
 *---------------------- MAIN DATA FIELD
 
 
+#00004:01
 
 #00101:0102000300000405
 #00101:00

@@ -8,9 +8,10 @@
 #BPM 134
 #PLAYLEVEL 5
 #RANK 2
-#MAKER Kawafumi
-#CREDIT Kawafumi
-#PREVIEW preview.ogg
+
+#STAGEFILE background.png
+#BANNER banner.png
+#BACKBMP jacket.png
 
 #DIFFICULTY 2
 #LNTYPE 1
@@ -291,9 +292,19 @@
 #WAV7O vox-2-2.ogg
 
 
+*---------------------- EXPANSION FIELD
+#MAKER Kawafumi
+#CREDIT Kawafumi
+#PREVIEW preview.ogg
+#BMP01 background.png
+
+
+
+
 *---------------------- MAIN DATA FIELD
 
 
+#00004:01
 
 #00113:002S002T00000000
 #00119:0000002U

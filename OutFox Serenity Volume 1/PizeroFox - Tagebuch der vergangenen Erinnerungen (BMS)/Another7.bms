@@ -6,7 +6,7 @@
 #TITLE Tagebuch der vergangenen Erinnerungen
 #ARTIST PizeroFox
 #BPM 95
-#PLAYLEVEL 8
+#PLAYLEVEL 7
 #RANK 2
 
 #STAGEFILE Tagebuch-bg.png
@@ -16,7 +16,6 @@
 #DIFFICULTY 4
 #TOTAL 368
 #LNTYPE 1
-#PREVIEW preview.ogg
 
 #WAV01 alon1.ogg
 #WAV02 alon2.ogg
@@ -139,10 +138,11 @@
 #WAV3L Clock7lo.ogg
 #WAV3M Clock8hi.ogg
 #WAV3N Clock8lo.ogg
-#BMP01 Tagebuch-bga.mkv
 
 
 *---------------------- EXPANSION FIELD
+#PREVIEW preview.ogg
+#BMP01 Tagebuch-bga.mp4
 #CREDIT Daniel Rotwind
 #MAKER Daniel Rotwind
 #RANDOM 24
@@ -434,6 +434,7 @@
 #WAV1M Cwork3-stem2.ogg
 #WAV1N Cwork3-stem1.ogg
 #ENDIF
+
 
 
 

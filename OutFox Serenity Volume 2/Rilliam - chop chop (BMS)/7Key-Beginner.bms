@@ -8,10 +8,10 @@
 #BPM 170
 #PLAYLEVEL 1
 #RANK 3
-#PREVIEW preview.ogg
-#SUBTITLE Beginner7
-#CREDIT Daniel Rotwind
-#MAKER Daniel Rotwind
+
+#STAGEFILE Background.png
+#BANNER Banner.png
+#BACKBMP Jacket.png
 
 #DIFFICULTY 1
 #LNTYPE 1
@@ -1305,9 +1305,10 @@
 
 
 *---------------------- EXPANSION FIELD
+#PREVIEW preview.ogg
 #CREDIT Daniel Rotwind
 #MAKER Daniel Rotwind
-#PREVIEW preview.ogg
+#BMP01 Background.png
 
 
 
@@ -1315,6 +1316,7 @@
 *---------------------- MAIN DATA FIELD
 
 
+#00004:01
 
 #00101:0102000300000405
 #00101:00

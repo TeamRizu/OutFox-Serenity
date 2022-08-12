@@ -8,11 +8,11 @@
 #BPM 200
 #PLAYLEVEL 5
 #RANK 3
-#MAKER Daniel Rotwind
-#CREDIT Daniel Rotwind
-#PREVIEW preview.ogg
 
 #SUBTITLE (IN MY BRAIN)
+#STAGEFILE background.png
+#BANNER banner.png
+#BACKBMP jacket.png
 
 #DIFFICULTY 1
 #TOTAL 260
@@ -622,10 +622,19 @@
 #WAVGQ Vocal_010.ogg
 
 
+*---------------------- EXPANSION FIELD
+#MAKER Daniel Rotwind
+#CREDIT Daniel Rotwind
+#PREVIEW preview.ogg
+#BMP01 Background.png
+
+
+
 
 *---------------------- MAIN DATA FIELD
 
 
+#00004:01
 
 #00101:00
 #00101:00

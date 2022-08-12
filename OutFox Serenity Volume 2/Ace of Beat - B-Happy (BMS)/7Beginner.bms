@@ -9,8 +9,9 @@
 #PLAYLEVEL 1
 #RANK 3
 
-#SUBTITLE 7Key Beginner
-#SUBARTIST obj. Daniel Rotwind
+#STAGEFILE background.png
+#BANNER banner.png
+#BACKBMP jacket.png
 
 #DIFFICULTY 1
 #TOTAL 278
@@ -291,6 +292,8 @@
 *---------------------- EXPANSION FIELD
 #CREDIT Daniel Rotwind
 #MAKER Daniel Rotwind
+#BMP01 background.png
+#PREVIEW preview.ogg
 
 
 
@@ -298,6 +301,7 @@
 *---------------------- MAIN DATA FIELD
 
 
+#00004:01
 
 #00101:002S002T00002U00
 #00136:1Z
