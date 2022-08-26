@@ -8,9 +8,9 @@
 #GENRE:Tech House;
 #CREDIT:OutFox Serenity Volume 2;
 #MUSIC:B-Happy.opus;
-#BANNER:Banner.png;
-#BACKGROUND:Background.png;
-#JACKET:Jacket.png;
+#BANNER:../Ace of Beat - B-Happy (BMS)/banner.png;
+#BACKGROUND:../Ace of Beat - B-Happy (BMS)/background.png;
+#JACKET:../Ace of Beat - B-Happy (BMS)/jacket.png;
 #CDTITLE:;
 #SAMPLESTART:42.985;
 #SAMPLELENGTH:14.328;

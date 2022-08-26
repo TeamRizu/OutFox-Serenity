@@ -8,8 +8,9 @@
 #GENRE:Breakbeat;
 #CREDIT:OutFox Serenity Volume 2;
 #MUSIC:Technological Emotional.opus;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:../Ace of Beat - Technological Emotional (BMS)/te-bn.jpg;
+#BACKGROUND:../Ace of Beat - Technological Emotional (BMS)/te-bg.jpg;
+#JACKET:../Ace of Beat - Technological Emotional (BMS)/te-jk.jpg;
 #CDTITLE:;
 #SAMPLESTART:80.479;
 #SAMPLELENGTH:11.497;

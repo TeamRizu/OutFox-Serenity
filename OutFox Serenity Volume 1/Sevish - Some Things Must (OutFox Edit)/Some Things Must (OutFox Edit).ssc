@@ -8,9 +8,9 @@
 #GENRE:Xenharmonic Bass;
 #CREDIT:OutFox Serenity Volume 1;
 #MUSIC:Some Things Must (OutFox Edit).opus;
-#BANNER:sevish-bn.png;
-#BACKGROUND:sevish-bg.png;
-#JACKET:sevish-jk.png;
+#BANNER:../Sevish - Some Things Must (OutFox Edit) (BMS)/sevish-bn.png;
+#BACKGROUND:../Sevish - Some Things Must (OutFox Edit) (BMS)/sevish-bg.png;
+#JACKET:../Sevish - Some Things Must (OutFox Edit) (BMS)/sevish-jk.png;
 #CDTITLE:;
 #SAMPLESTART:24.000;
 #SAMPLELENGTH:12.000;

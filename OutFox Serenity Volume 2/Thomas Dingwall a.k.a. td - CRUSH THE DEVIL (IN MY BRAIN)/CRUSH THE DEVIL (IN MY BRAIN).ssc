@@ -8,10 +8,10 @@
 #GENRE:Rock;
 #CREDIT:OutFox Serenity Volume 2;
 #MUSIC:CRUSH THE DEVIL (IN MY BRAIN).opus;
-#BANNER:ctd-bn.png;
-#BACKGROUND:ctd-bg.png;
+#BANNER:../Thomas Dingwall a.k.a. td - CRUSH THE DEVIL (IN MY BRAIN) (BMS)/banner.png;
+#BACKGROUND:../Thomas Dingwall a.k.a. td - CRUSH THE DEVIL (IN MY BRAIN) (BMS)/background.png;
 #LYRICSPATH:CRUSH_THE_DEVIL_IN_MY_BRAIN.lrc;
-#JACKET:ctd-jk.png;
+#JACKET:../Thomas Dingwall a.k.a. td - CRUSH THE DEVIL (IN MY BRAIN) (BMS)/jacket.png;
 #CDTITLE:;
 #SAMPLESTART:51.600;
 #SAMPLELENGTH:19.200;

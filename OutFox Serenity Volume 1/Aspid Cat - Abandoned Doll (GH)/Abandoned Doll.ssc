@@ -5,12 +5,13 @@
 #TITLETRANSLIT:;
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
-#GENRE:;
+#GENRE:Hard Ragtime;
 #CREDIT:OutFox Serenity Volume 1;
 #MUSIC:song.ogg;
 #INSTRUMENTTRACK:Guitar=guitar.ogg;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:../Aspid Cat - Abandoned Doll/Abandoned Doll-bn.png;
+#BACKGROUND:../Aspid Cat - Abandoned Doll/Abandoned Doll-bg.png;
+#JACKET:../Aspid Cat - Abandoned Doll/Abandoned Doll-jk.png;
 #CDTITLE:;
 #SAMPLESTART:0.000;
 #SAMPLELENGTH:0.000;

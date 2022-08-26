@@ -1,6 +1,6 @@
 #VERSION:0.83;
 #TITLE:Beatucada;
-#SUBTITLE:;
+#SUBTITLE:(GH Version);
 #ARTIST:Kurio Prokos;
 #TITLETRANSLIT:;
 #SUBTITLETRANSLIT:;
@@ -9,8 +9,9 @@
 #CREDIT:OutFox Serenity Volume 2;
 #MUSIC:song.ogg;
 #INSTRUMENTTRACK:Guitar=guitar.ogg,Bass=bass.ogg;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:../Kurio Prokos - Beatucada (BMS)/Banner.png;
+#BACKGROUND:../Kurio Prokos - Beatucada (BMS)/Background.png;
+#JACKET:../Kurio Prokos - Beatucada (BMS)/Jacket.png;
 #CDTITLE:;
 #SAMPLESTART:39.344;
 #SAMPLELENGTH:15.738;

@@ -8,10 +8,10 @@
 #GENRE:Tropical House;
 #CREDIT:OutFox Serenity Volume 2;
 #MUSIC:Beatucada.opus;
-#BANNER:Banner.png;
-#BACKGROUND:Background.png;
+#BANNER:../Kurio Prokos - Beatucada (BMS)/Banner.png;
+#BACKGROUND:../Kurio Prokos - Beatucada (BMS)/Background.png;
 #CDTITLE:;
-#JACKET:Jacket.png;
+#JACKET:../Kurio Prokos - Beatucada (BMS)/Jacket.png;
 #SAMPLESTART:39.344;
 #SAMPLELENGTH:15.738;
 #SELECTABLE:YES;
