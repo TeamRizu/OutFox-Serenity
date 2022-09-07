@@ -6,11 +6,15 @@
 #TITLE synthborn lovebirds
 #ARTIST spirai project "drazil"
 #BPM 110
-#PLAYLEVEL 6
+#PLAYLEVEL 5
 #RANK 2
 
+#STAGEFILE synthborn-bg.png
+#BANNER synthborn-bn.png
+#BACKBMP synthborn-jk.png
+
 #DIFFICULTY 3
-#TOTAL 431
+#TOTAL 423
 #LNTYPE 1
 
 #WAV01 crsh.ogg
@@ -463,11 +467,16 @@
 *---------------------- EXPANSION FIELD
 #CREDIT Daniel Rotwind
 #MAKER Daniel Rotwind
+#BMP01 synthborn-bg.png
+#PREVIEW preview.ogg
+
+
 
 
 *---------------------- MAIN DATA FIELD
 
 
+#00004:01
 
 #00101:0Q0R0S0T0U0V0W0X0Y0Z101112131415
 #00101:2A

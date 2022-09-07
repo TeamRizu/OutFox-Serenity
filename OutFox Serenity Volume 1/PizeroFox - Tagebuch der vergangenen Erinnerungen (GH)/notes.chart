@@ -1,0 +1,25 @@
+﻿[Song]
+{
+  Name = "Tagebuch der vergangenen Erinnerungen"
+  Artist = "PizeroFox"
+  Album = "OutFox Serenity Volume 1"
+  Year = ", 2021"
+  Offset = 0
+  Resolution = 192
+  Player2 = bass
+  Difficulty = 0
+  PreviewStart = 0
+  PreviewEnd = 0
+  Genre = "Calm Disturbance"
+  MediaType = "outfox"
+  MusicStream = "song.ogg"
+  GuitarStream = "guitar.ogg"
+}
+[SyncTrack]
+{
+  0 = TS 4
+  0 = B 95000
+}
+[Events]
+{
+}

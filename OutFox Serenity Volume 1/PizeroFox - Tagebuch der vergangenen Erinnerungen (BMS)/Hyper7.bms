@@ -6,12 +6,15 @@
 #TITLE Tagebuch der vergangenen Erinnerungen
 #ARTIST PizeroFox
 #BPM 95
-#PLAYLEVEL 6
+#PLAYLEVEL 4
 #RANK 2
 
+#STAGEFILE Tagebuch-bg.png
+#BANNER Tagebuch-bn.png
+#BACKBMP Tagebuch-jk.png
 
 #DIFFICULTY 3
-#TOTAL 337
+#TOTAL 300
 #LNTYPE 1
 #PREVIEW preview.ogg
 #LNMODE 1
@@ -65,16 +68,6 @@
 #WAV1B comt6b.ogg
 #WAV1C comt6c.ogg
 #WAV1D comt8b.ogg
-#WAV1E Cwork2-stem1.ogg
-#WAV1F Cwork2-stem2.ogg
-#WAV1G Cwork2-stem3.ogg
-#WAV1H Cwork2-stem4.ogg
-#WAV1I Cwork2-stem5.ogg
-#WAV1J Cwork3-stem1.ogg
-#WAV1K Cwork3-stem2.ogg
-#WAV1L Cwork3-stem3.ogg
-#WAV1M Cwork3-stem4.ogg
-#WAV1N Cwork3-stem5.ogg
 #WAV1O drum1c.ogg
 #WAV1P drum1n.ogg
 #WAV1Q drum2c.ogg
@@ -147,7 +140,7 @@
 #WAV3L Clock7lo.ogg
 #WAV3M Clock8hi.ogg
 #WAV3N Clock8lo.ogg
-#BMP01 Tagebuch-bga.mkv
+#BMP01 Tagebuch-bga.mp4
 
 
 *---------------------- EXPANSION FIELD
@@ -155,6 +148,16 @@
 #MAKER Daniel Rotwind
 #RANDOM 24
 #IF 1
+#WAV1E Cwork2-stem1.ogg
+#WAV1F Cwork2-stem2.ogg
+#WAV1G Cwork2-stem3.ogg
+#WAV1H Cwork2-stem4.ogg
+#WAV1I Cwork2-stem5.ogg
+#WAV1J Cwork3-stem1.ogg
+#WAV1K Cwork3-stem3.ogg
+#WAV1L Cwork3-stem2.ogg
+#WAV1M Cwork3-stem4.ogg
+#WAV1N Cwork3-stem5.ogg
 #ENDIF
 #IF 2
 #WAV1E Cwork2-stem1.ogg

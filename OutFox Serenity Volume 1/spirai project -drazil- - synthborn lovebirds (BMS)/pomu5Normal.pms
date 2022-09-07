@@ -9,6 +9,9 @@
 #PLAYLEVEL 21
 #RANK 2
 
+#STAGEFILE synthborn-bg.png
+#BANNER synthborn-bn.png
+#BACKBMP synthborn-jk.png
 
 #DIFFICULTY 2
 #TOTAL 342
@@ -467,17 +470,21 @@
 #WAVCJ nitedriv-04low.ogg
 #WAVCK nitedriv-0304hi.ogg
 #WAVCL nitedriv-0304low.ogg
-#BMP01 BG0.png
 
 
 *---------------------- EXPANSION FIELD
 #CREDIT Jack5
 #MAKER Jack5
+#BMP01 synthborn-bg.png
+#PREVIEW preview.ogg
+
+
 
 
 *---------------------- MAIN DATA FIELD
 
 
+#00004:01
 
 #00101:0Q0R0S0T0U0V0W0X0Y0Z101112131415
 #00101:2A

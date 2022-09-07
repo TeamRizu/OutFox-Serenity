@@ -9,11 +9,13 @@
 #PLAYLEVEL 2
 #RANK 2
 
+#STAGEFILE Tagebuch-bg.png
+#BANNER Tagebuch-bn.png
+#BACKBMP Tagebuch-jk.png
 
 #DIFFICULTY 2
-#TOTAL 445
+#TOTAL 356
 #LNTYPE 1
-#PREVIEW preview.ogg
 
 #WAV01 alon1.ogg
 #WAV02 alon2.ogg
@@ -64,16 +66,6 @@
 #WAV1B comt6b.ogg
 #WAV1C comt6c.ogg
 #WAV1D comt8b.ogg
-#WAV1E Cwork2-stem1.ogg
-#WAV1F Cwork2-stem2.ogg
-#WAV1G Cwork2-stem3.ogg
-#WAV1H Cwork2-stem4.ogg
-#WAV1I Cwork2-stem5.ogg
-#WAV1J Cwork3-stem1.ogg
-#WAV1K Cwork3-stem2.ogg
-#WAV1L Cwork3-stem3.ogg
-#WAV1M Cwork3-stem4.ogg
-#WAV1N Cwork3-stem5.ogg
 #WAV1O drum1c.ogg
 #WAV1P drum1n.ogg
 #WAV1Q drum2c.ogg
@@ -130,14 +122,25 @@
 #WAV35 VibesD7.ogg
 #WAV36 VibesD8.ogg
 #WAV37 VibesD9.ogg
-#BMP01 Tagebuch-bga.mkv
 
 
 *---------------------- EXPANSION FIELD
+#PREVIEW preview.ogg
+#BMP01 Tagebuch-bga.mp4
 #CREDIT Daniel Rotwind
 #MAKER Daniel Rotwind
 #RANDOM 24
 #IF 1
+#WAV1E Cwork2-stem1.ogg
+#WAV1F Cwork2-stem2.ogg
+#WAV1G Cwork2-stem3.ogg
+#WAV1H Cwork2-stem4.ogg
+#WAV1I Cwork2-stem5.ogg
+#WAV1J Cwork3-stem1.ogg
+#WAV1K Cwork3-stem3.ogg
+#WAV1L Cwork3-stem2.ogg
+#WAV1M Cwork3-stem4.ogg
+#WAV1N Cwork3-stem5.ogg
 #ENDIF
 #IF 2
 #WAV1E Cwork2-stem1.ogg
@@ -415,6 +418,7 @@
 #WAV1M Cwork3-stem2.ogg
 #WAV1N Cwork3-stem1.ogg
 #ENDIF
+
 
 
 

@@ -8,8 +8,10 @@
 #GENRE:Calm Disturbance;
 #CREDIT:OutFox Serenity Volume 1;
 #MUSIC:Tagebuch der vergangenen Erinnerungen.opus;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:../PizeroFox - Tagebuch der vergangenen Erinnerungen (BMS)/Tagebuch-bn.png;
+#BACKGROUND:../PizeroFox - Tagebuch der vergangenen Erinnerungen (BMS)/Tagebuch-bg.png;
+#JACKET:../PizeroFox - Tagebuch der vergangenen Erinnerungen (BMS)/Tagebuch-jk.png;
+#PREVIEWVID:Tagebuch-bga-p.mp4;
 #CDTITLE:;
 #SAMPLESTART:20.211;
 #SAMPLELENGTH:20.211;
@@ -17,7 +19,7 @@
 #OFFSET:0.000;
 #BPMS:0.000=95.000;
 #STOPS:;
-#BGCHANGES:0.000=../PizeroFox - Tagebuch der vergangenen Erinnerungen (BMS)/Tagebuch-bga.mkv=1.000=0=0=1===CrossFade==;
+#BGCHANGES:0.000=../PizeroFox - Tagebuch der vergangenen Erinnerungen (BMS)/Tagebuch-bga.mp4=1.000=0=0=1===CrossFade==;
 #FGCHANGES:;
 
 //---------------dance-single - ----------------

@@ -1,16 +1,18 @@
 #VERSION:0.83;
 #TITLE:Tagebuch der vergangenen Erinnerungen;
-#SUBTITLE:;
+#SUBTITLE:(GH Version);
 #ARTIST:PizeroFox;
 #TITLETRANSLIT:;
-#SUBTITLETRANSLIT:(GH Version);
+#SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #GENRE:Calm Disturbance;
 #CREDIT:OutFox Serenity Volume 1;
-#MUSIC:song.opus;
-#INSTRUMENTTRACK:Guitar=guitar.opus;
-#BANNER:Tagebuch-bn.png;
-#BACKGROUND:Tagebuch-bg.png;
+#MUSIC:song.ogg;
+#INSTRUMENTTRACK:Guitar=guitar.ogg;
+#BANNER:../PizeroFox - Tagebuch der vergangenen Erinnerungen (BMS)/Tagebuch-bn.png;
+#BACKGROUND:../PizeroFox - Tagebuch der vergangenen Erinnerungen (BMS)/Tagebuch-bg.png;
+#JACKET:../PizeroFox - Tagebuch der vergangenen Erinnerungen (BMS)/Tagebuch-jk.png;
+#PREVIEWVID:../PizeroFox - Tagebuch der vergangenen Erinnerungen/Tagebuch-bga-p.mp4;
 #CDTITLE:;
 #SAMPLESTART:40.421;
 #SAMPLELENGTH:20.211;
@@ -18,7 +20,7 @@
 #OFFSET:0.000;
 #BPMS:0.000=95.000;
 #STOPS:;
-#BGCHANGES:0.000=../PizeroFox - Tagebuch der vergangenen Erinnerungen (BMS)/Tagebuch-bga.mkv=1.000=0=0=1===CrossFade==;
+#BGCHANGES:0.000=../PizeroFox - Tagebuch der vergangenen Erinnerungen (BMS)/Tagebuch-bga.mp4=1.000=0=0=1===CrossFade==;
 #FGCHANGES:;
 
 //---------------gh-solo - ----------------

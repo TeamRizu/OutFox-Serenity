@@ -8,7 +8,10 @@
 #BPM 95
 #PLAYLEVEL 3
 #RANK 2
-#PREVIEW preview.ogg
+
+#STAGEFILE Tagebuch-bg.png
+#BANNER Tagebuch-bn.png
+#BACKBMP Tagebuch-jk.png
 
 #DIFFICULTY 2
 #TOTAL 210
@@ -63,16 +66,6 @@
 #WAV1B comt6b.ogg
 #WAV1C comt6c.ogg
 #WAV1D comt8b.ogg
-#WAV1E Cwork2-stem1.ogg
-#WAV1F Cwork2-stem2.ogg
-#WAV1G Cwork2-stem3.ogg
-#WAV1H Cwork2-stem4.ogg
-#WAV1I Cwork2-stem5.ogg
-#WAV1J Cwork3-stem1.ogg
-#WAV1K Cwork3-stem2.ogg
-#WAV1L Cwork3-stem3.ogg
-#WAV1M Cwork3-stem4.ogg
-#WAV1N Cwork3-stem5.ogg
 #WAV1O drum1c.ogg
 #WAV1P drum1n.ogg
 #WAV1Q drum2c.ogg
@@ -129,14 +122,25 @@
 #WAV35 VibesD7.ogg
 #WAV36 VibesD8.ogg
 #WAV37 VibesD9.ogg
-#BMP01 BG0.png
 
 
 *---------------------- EXPANSION FIELD
+#PREVIEW preview.ogg
+#BMP01 Tagebuch-bga.mp4
 #CREDIT Daniel Rotwind
 #MAKER Daniel Rotwind
 #RANDOM 24
 #IF 1
+#WAV1E Cwork2-stem1.ogg
+#WAV1F Cwork2-stem2.ogg
+#WAV1G Cwork2-stem3.ogg
+#WAV1H Cwork2-stem4.ogg
+#WAV1I Cwork2-stem5.ogg
+#WAV1J Cwork3-stem1.ogg
+#WAV1K Cwork3-stem3.ogg
+#WAV1L Cwork3-stem2.ogg
+#WAV1M Cwork3-stem4.ogg
+#WAV1N Cwork3-stem5.ogg
 #ENDIF
 #IF 2
 #WAV1E Cwork2-stem1.ogg
@@ -417,9 +421,11 @@
 
 
 
+
 *---------------------- MAIN DATA FIELD
 
 
+#00004:01
 #00015:2000002100000000
 
 #00114:2200002300000000
@@ -931,7 +937,6 @@
 #04701:00
 #04701:00
 #04701:0Y00000Z00000000
-#04711:0000002700000000
-#04716:26
+#04716:2600002700000000
 
 

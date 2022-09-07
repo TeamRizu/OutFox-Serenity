@@ -6,9 +6,12 @@
 #TITLE synthborn lovebirds
 #ARTIST spirai project "drazil"
 #BPM 110
-#PLAYLEVEL 39
+#PLAYLEVEL 32
 #RANK 2
 
+#STAGEFILE synthborn-bg.png
+#BANNER synthborn-bn.png
+#BACKBMP synthborn-jk.png
 
 #DIFFICULTY 4
 #TOTAL 360
@@ -465,17 +468,21 @@
 #WAVCH nitedriv-03low.ogg
 #WAVCI nitedriv-04hi.ogg
 #WAVCJ nitedriv-04low.ogg
-#BMP01 BG0.png
 
 
 *---------------------- EXPANSION FIELD
 #CREDIT Jack5
 #MAKER Jack5
+#BMP01 synthborn-bg.png
+#PREVIEW preview.ogg
+
+
 
 
 *---------------------- MAIN DATA FIELD
 
 
+#00004:01
 
 #00101:00000000000000000000000000000015
 #00101:2A

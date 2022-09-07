@@ -8,15 +8,15 @@
 #BPM 160
 #PLAYLEVEL 5
 #RANK 2
-#PREVIEW preview.ogg
-#CREDIT Daniel Rotwind
-#MAKER Daniel Rotwind
+
 #SUBTITLE (OutFox Edit)
+#STAGEFILE sevish-bg.png
+#BANNER sevish-bn.png
+#BACKBMP sevish-jk.png
 
 #DIFFICULTY 2
 #TOTAL 385
 #LNTYPE 1
-#LNMODE 1
 
 #WAV01 Reversal.ogg
 #WAV02 Ding0.ogg
@@ -1249,13 +1249,22 @@
 #WAVYI tom4.ogg
 #WAVYJ tom6.ogg
 #WAVYK tom7.ogg
-#BMP01 BG0.png
+
+
+*---------------------- EXPANSION FIELD
+#PREVIEW preview.ogg
+#CREDIT Daniel Rotwind
+#MAKER Daniel Rotwind
+#BMP01 sevish-bg.png
+
+
 
 
 *---------------------- MAIN DATA FIELD
 
 
 #00001:HJ
+#00004:01
 
 
 #00201:00

@@ -1,0 +1,26 @@
+﻿[Song]
+{
+  Name = "B-Happy"
+  Artist = "Ace of Beat"
+  Album = "OutFox Serenity Volume 2"
+  Year = ", 2022"
+  Offset = 0
+  Resolution = 192
+  Player2 = bass
+  Difficulty = 0
+  PreviewStart = 0
+  PreviewEnd = 0
+  Genre = "Tech House"
+  MediaType = "outfox"
+  MusicStream = "song.ogg"
+  GuitarStream = "guitar.ogg"
+  BassStream = "bass.ogg"
+}
+[SyncTrack]
+{
+  0 = TS 4
+  0 = B 134000
+}
+[Events]
+{
+}
