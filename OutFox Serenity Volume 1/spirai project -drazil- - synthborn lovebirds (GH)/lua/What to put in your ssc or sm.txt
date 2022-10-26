@@ -1,0 +1,3 @@
+#Note that you can either put the folder it's in, or the actual lua file location.
+#FGCHANGES:0.000=location/to/default.lua=1.000=0=0=1=====,
+;

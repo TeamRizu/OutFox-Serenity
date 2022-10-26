@@ -9,9 +9,9 @@
 #CREDIT:OutFox Serenity Volume 1;
 #MUSIC:song.ogg;
 #INSTRUMENTTRACK:Guitar=guitar.ogg,Bass=bass.ogg;
-#BANNER:../spirai project -drazil- - synthborn lovebirds (BMS)/synthborn-bn.png;
-#BACKGROUND:../spirai project -drazil- - synthborn lovebirds (BMS)/synthborn-bg.png;
-#JACKET:../spirai project -drazil- - synthborn lovebirds (BMS)/synthborn-ja.png;
+#BANNER:synthborn-bn.png;
+#BACKGROUND:synthborn-bg.png;
+#JACKET:synthborn-ja.png;
 #CDTITLE:;
 #SAMPLESTART:43.639;
 #SAMPLELENGTH:17.455;
@@ -20,7 +20,7 @@
 #BPMS:0.000=110.000;
 #STOPS:;
 #BGCHANGES:;
-#FGCHANGES:0.000=../spirai project -drazil- - synthborn lovebirds/template/default.lua=1.000=0=0=1=====;
+#FGCHANGES:0.000=template/default.lua=1.000=0=0=1=====;
 
 //---------------gh-solo - ----------------
 #NOTEDATA:;

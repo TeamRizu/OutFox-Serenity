@@ -8,10 +8,10 @@
 #GENRE:Ferretstep;
 #CREDIT:OutFox Serenity Volume 2;
 #MUSIC:chop chop.opus;
-#BANNER:../Rilliam - chop chop (BMS)/Banner.png;
-#BACKGROUND:../Rilliam - chop chop (BMS)/Background.png;
+#BANNER:Banner.png;
+#BACKGROUND:Background.png;
 #CDTITLE:;
-#JACKET:../Rilliam - chop chop (BMS)/Jacket.png;
+#JACKET:Jacket.png;
 #SAMPLESTART:33.882;
 #SAMPLELENGTH:11.294;
 #SELECTABLE:YES;
