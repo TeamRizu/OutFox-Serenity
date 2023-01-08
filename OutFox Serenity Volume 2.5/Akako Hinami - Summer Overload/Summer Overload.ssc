@@ -8,8 +8,9 @@
 #GENRE:Happy Hardcore;
 #CREDIT:OutFox Serenity Volume 2.5;
 #MUSIC:Summer Overload.ogg;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:banner.png;
+#BACKGROUND:background.png;
+#JACKET:jacket.png;
 #CDTITLE:;
 #SAMPLESTART:106.667;
 #SAMPLELENGTH:10.667;
