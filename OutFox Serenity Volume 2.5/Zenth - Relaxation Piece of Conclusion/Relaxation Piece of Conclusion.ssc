@@ -8,8 +8,9 @@
 #GENRE:Chill;
 #CREDIT:OutFox Serenity Volume 2.5;
 #MUSIC:Relaxation Piece of Conclusion.ogg;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:banner.png;
+#BACKGROUND:background.png;
+#JACKET:jacket.png;
 #CDTITLE:;
 #SAMPLESTART:24.000;
 #SAMPLELENGTH:16.000;
