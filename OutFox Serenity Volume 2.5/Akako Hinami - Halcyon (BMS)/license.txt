@@ -9,3 +9,7 @@ Spotify: https://open.spotify.com/artist/1rB1jSkSTCfxuESJEMcrdU
 SoundCloud: https://soundcloud.com/user-460799185
 Instagram: https://www.instagram.com/akakohinami_music/
 Bandcamp: https://akakohinami-jp.bandcamp.com/
+
+# Graphics
+
+Graphics by Lirodon, licensed under CC BY-SA 4.0 License https://creativecommons.org/licenses/by-sa/4.0/

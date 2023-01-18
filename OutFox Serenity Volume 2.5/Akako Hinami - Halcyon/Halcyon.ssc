@@ -8,8 +8,9 @@
 #GENRE:Hardcore Psytrance;
 #CREDIT:OutFox Serenity Volume 2.5;
 #MUSIC:Halcyon.ogg;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:banner.png;
+#BACKGROUND:background.jpg;
+#JACKET:jacket.png;
 #CDTITLE:;
 #SAMPLESTART:48.000;
 #SAMPLELENGTH:9.600;
