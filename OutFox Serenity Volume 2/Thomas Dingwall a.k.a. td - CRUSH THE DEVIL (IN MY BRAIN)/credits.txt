@@ -10,4 +10,4 @@ Music provided to Project OutFox by Thomas Dingwall a.k.a td
 
 # Graphics
 
-All artwork by Telperion, licensed under C-BY 4.0 <https://creativecommons.org/licenses/by/4.0/>
+All artwork by Telperion, licensed under CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>

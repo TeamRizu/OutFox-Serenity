@@ -1,0 +1,27 @@
+﻿[Song]
+{
+  Name = "Summer Overload!"
+  Artist = "Akako Hinami"
+  Album = "OutFox Serenity Volume 2.5"
+  Year = ", 2022"
+  Offset = 0
+  Resolution = 192
+  Player2 = bass
+  Difficulty = 0
+  PreviewStart = 0
+  PreviewEnd = 0
+  Genre = "Happy Hardcore"
+  MediaType = "outfox"
+  MusicStream = "song.ogg"
+  GuitarStream = "guitar.ogg"
+  BassStream = "bass.ogg"
+  RhythmStream = "rhythm.ogg"
+}
+[SyncTrack]
+{
+  0 = TS 4
+  0 = B 180000
+}
+[Events]
+{
+}

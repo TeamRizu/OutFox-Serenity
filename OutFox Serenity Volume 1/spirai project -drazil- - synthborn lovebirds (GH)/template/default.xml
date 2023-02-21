@@ -1,0 +1,28 @@
+<ActorFrame
+	Condition = "(function()
+		_G.xero = {}
+		xero.songdir = GAMESTATE:GetCurrentSong():GetSongDir()
+		xero.loadscript = function(path) return assert(loadfile(path))() end
+		xero.loadscript('template/std.lua')
+		xero.loadscript('notitg/actorgen.lua')
+		return true
+	end)()"
+	InitCommand = "%function(self)
+		xero.foreground = self
+		xero.loadscript('template/sharedvars.lua')
+		xero.ActorList = Def.ActorFrame {
+			xero.loadscript('template/template.lua'),
+			xero.loadscript('template/ease.lua'),
+			xero.loadscript('template/plugins.lua'),
+			xero.loadscript('lua/mods.lua'),
+		}
+		self:sleep(9e9)
+	end"
+><children>
+	<Layer 
+		Name="Root"
+		File="../notitg/actors.xml"
+		Condition="actorgen.Template(xero.ActorList)"
+		InitCommand="%actorgen.InitCmd"
+	/>
+</children></ActorFrame>

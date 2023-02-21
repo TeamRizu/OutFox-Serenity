@@ -8,9 +8,9 @@
 #GENRE:Calm Disturbance;
 #CREDIT:OutFox Serenity Volume 1;
 #MUSIC:Tagebuch der vergangenen Erinnerungen.opus;
-#BANNER:../PizeroFox - Tagebuch der vergangenen Erinnerungen (BMS)/Tagebuch-bn.png;
-#BACKGROUND:../PizeroFox - Tagebuch der vergangenen Erinnerungen (BMS)/Tagebuch-bg.png;
-#JACKET:../PizeroFox - Tagebuch der vergangenen Erinnerungen (BMS)/Tagebuch-jk.png;
+#BANNER:Tagebuch-bn.png;
+#BACKGROUND:Tagebuch-bg.png;
+#JACKET:Tagebuch-jk.png;
 #PREVIEWVID:Tagebuch-bga-p.mp4;
 #CDTITLE:;
 #SAMPLESTART:20.211;
@@ -29,7 +29,7 @@
 #DESCRIPTION:;
 #CHARTSTYLE:;
 #DIFFICULTY:Beginner;
-#METER:1;
+#METER:2;
 #RADARVALUES:0.082098,0.093239,0.000000,0.000000,0.000000,73.000000,73.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.082098,0.093239,0.000000,0.000000,0.000000,73.000000,73.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000;
 #CREDIT:Daniel Rotwind;
 #NOTES:
@@ -2366,7 +2366,7 @@ M010
 #STEPSTYPE:dance-single;
 #DESCRIPTION:;
 #DIFFICULTY:Easy;
-#METER:3;
+#METER:5;
 #RADARVALUES:0,0,0,0,0;
 #CREDIT:Chriszo;
 #NOTES:
@@ -2791,7 +2791,7 @@ M010
 #STEPSTYPE:dance-single;
 #DESCRIPTION:;
 #DIFFICULTY:Medium;
-#METER:8;
+#METER:9;
 #RADARVALUES:0,0,0,0,0;
 #CREDIT:Chriszo;
 #NOTES:

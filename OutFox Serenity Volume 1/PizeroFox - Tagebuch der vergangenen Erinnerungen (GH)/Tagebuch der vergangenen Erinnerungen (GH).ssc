@@ -9,9 +9,9 @@
 #CREDIT:OutFox Serenity Volume 1;
 #MUSIC:song.ogg;
 #INSTRUMENTTRACK:Guitar=guitar.ogg;
-#BANNER:../PizeroFox - Tagebuch der vergangenen Erinnerungen (BMS)/Tagebuch-bn.png;
-#BACKGROUND:../PizeroFox - Tagebuch der vergangenen Erinnerungen (BMS)/Tagebuch-bg.png;
-#JACKET:../PizeroFox - Tagebuch der vergangenen Erinnerungen (BMS)/Tagebuch-jk.png;
+#BANNER:Tagebuch-bn.png;
+#BACKGROUND:Tagebuch-bg.png;
+#JACKET:Tagebuch-jk.png;
 #PREVIEWVID:../PizeroFox - Tagebuch der vergangenen Erinnerungen/Tagebuch-bga-p.mp4;
 #CDTITLE:;
 #SAMPLESTART:40.421;

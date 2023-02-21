@@ -8,9 +8,9 @@
 #GENRE:Synthwave;
 #CREDIT:OutFox Serenity Volume 1;
 #MUSIC:synthborn lovebirds.opus;
-#BANNER:../spirai project -drazil- - synthborn lovebirds (BMS)/synthborn-bn.png;
-#BACKGROUND:../spirai project -drazil- - synthborn lovebirds (BMS)/synthborn-bg.png;
-#JACKET:../spirai project -drazil- - synthborn lovebirds (BMS)/synthborn-ja.png;
+#BANNER:spirai project -drazil- - synthborn lovebirds (BMS)/synthborn-bn.png;
+#BACKGROUND:spirai project -drazil- - synthborn lovebirds (BMS)/synthborn-bg.png;
+#JACKET:spirai project -drazil- - synthborn lovebirds (BMS)/synthborn-ja.png;
 #CDTITLE:;
 #SAMPLESTART:26.185;
 #SAMPLELENGTH:17.455;
@@ -1485,7 +1485,7 @@
 #DESCRIPTION:;
 #CHARTSTYLE:;
 #DIFFICULTY:Beginner;
-#METER:2;
+#METER:3;
 #RADARVALUES:0.072751,0.110870,0.025463,0.161266,0.000000,60.000000,57.000000,3.000000,19.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.072751,0.110870,0.025463,0.161266,0.000000,60.000000,57.000000,3.000000,19.000000,0.000000,0.000000,0.000000,0.000000,0.000000;
 #CREDIT:Daniel Rotwind;
 #OFFSET:-0.003000;

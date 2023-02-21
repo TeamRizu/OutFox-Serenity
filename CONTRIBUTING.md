@@ -2,7 +2,7 @@
 
 Thank you for investing your time in contributing to our project! Here you'll learn what is needed to help with the next iterations of OutFox Serenity Pack.
 
-First of all, please join the [OutFox Serenity Discord server](https://discord.gg/mNcFU67mK7) to have direct contact with other contributors and staff. This should help to better organize content and make things easier.
+First of all, please join the [Project OutFox Discord server](https://discord.gg/cN4TjgQdcA) to have direct contact with other contributors and staff. This should help to better organize content and make things easier.
 
 ## General guidelines
 
