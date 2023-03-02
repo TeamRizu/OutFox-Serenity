@@ -8,8 +8,9 @@
 #GENRE:Bass House;
 #CREDIT:OutFox Serenity Volume 3;
 #MUSIC:Run 4 Cover.ogg;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:banner.png;
+#JACKET:jacket.png;
+#BACKGROUND:background.png;
 #CDTITLE:;
 #SAMPLESTART:29.333;
 #SAMPLELENGTH:14.222;
