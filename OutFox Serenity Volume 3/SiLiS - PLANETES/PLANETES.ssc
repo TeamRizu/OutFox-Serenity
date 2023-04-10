@@ -8,8 +8,9 @@
 #GENRE:Artcore;
 #CREDIT:OutFox Serenity Volume 3;
 #MUSIC:PLANETES.ogg;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:banner.png;
+#BACKGROUND:background.png;
+#JACKET:jacket.png;
 #CDTITLE:;
 #SAMPLESTART:21.600;
 #SAMPLELENGTH:9.600;
