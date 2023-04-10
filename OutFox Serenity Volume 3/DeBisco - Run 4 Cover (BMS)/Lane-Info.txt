@@ -1,0 +1,19 @@
+BGM-Lane overview:
+B1 - Amen Breaks
+B2 - Kick
+B3 - Buildup Drums
+B4 - Tophats / Trap Percussion
+B5 - Main Vocals
+B6 - Backing Vocals
+B7 - Ride
+B8 - BASS / 808_Bass
+B9 - 303	(Main Melody)
+B10 - Alarms
+B11 - Brass Hits
+B12 - Stabs
+B13 - Scratches / ComeOn
+B14 - Signal 
+B15 - Hoovers
+B16 - 
+
+B20-B22 is for background stuff.
