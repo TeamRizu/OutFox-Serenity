@@ -1,0 +1,25 @@
+﻿[Song]
+{
+  Name = "Run 4 Cover"
+  Artist = "DeBisco"
+  Album = "OutFox Serenity Volume 3"
+  Year = ", 2023"
+  Offset = 0
+  Resolution = 192
+  Player2 = bass
+  Difficulty = 0
+  PreviewStart = 0
+  PreviewEnd = 0
+  Genre = "Bass House"
+  MediaType = "outfox"
+  MusicStream = "song.opus"
+  GuitarStream = "guitar.opus"
+}
+[SyncTrack]
+{
+  0 = TS 4
+  0 = B 135000
+}
+[Events]
+{
+}
