@@ -8,8 +8,9 @@
 #GENRE:Rock;
 #CREDIT:OutFox Serenity Volume 3;
 #MUSIC:CHEER.opus;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:banner.png;
+#BACKGROUND:background.png;
+#JACKET:jacket.png;
 #CDTITLE:;
 #SAMPLESTART:2.580;
 #SAMPLELENGTH:15.000;

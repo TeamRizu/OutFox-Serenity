@@ -9,8 +9,9 @@
 #CREDIT:OutFox Serenity Volume 3;
 #MUSIC:song.opus;
 #INSTRUMENTTRACK:Guitar=guitar.opus,Rhythm=rhythm.opus,Bass=bass.opus;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:banner.png;
+#BACKGROUND:background.png;
+#JACKET:jacket.png;
 #CDTITLE:;
 #SAMPLESTART:2.580;
 #SAMPLELENGTH:15.000;
