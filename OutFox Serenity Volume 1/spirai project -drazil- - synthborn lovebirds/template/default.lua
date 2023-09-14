@@ -1,5 +1,10 @@
 
-if IsGame("dance") and (GAMESTATE:GetCurrentStyle():GetName() == "single" or GAMESTATE:GetCurrentStyle():GetName() == "versus") then
+if (IsGame("dance") or IsGame('groove')) and (GAMESTATE:GetCurrentStyle():GetName() == "single" or GAMESTATE:GetCurrentStyle():GetName() == "versus") then
+	
+	if (IsGame("dance")) then
+		SCREENMAN:SystemMessage("This file might not work as expected on 'dance', use 'groove' gamemode instead to play this file.")
+	end
+
 	_G.xero = {}
 	xero.songdir = GAMESTATE:GetCurrentSong():GetSongDir()
 	xero.loadscript = function(path) return assert(loadfile(xero.songdir..path))() end
@@ -19,3 +24,5 @@ if IsGame("dance") and (GAMESTATE:GetCurrentStyle():GetName() == "single" or GAM
 else
   return Def.Actor{}
 end
+
+-- The checks for groove and warning for 'dance' were added later by Moru Zerinho6, all the code other than that is from drazil.
