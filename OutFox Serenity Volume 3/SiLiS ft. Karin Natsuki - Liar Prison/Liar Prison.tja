@@ -1,8 +1,8 @@
 TITLE:Liar Prison
-TITLEJA:ÇÁÇ¢Ç†Å[Ç’ÇËÇ∏ÇÒ
+TITLEJA:ÔøΩÁÇ¢ÔøΩÔøΩÔøΩ[ÔøΩ’ÇËÇ∏ÔøΩÔøΩ
 SUBTITLE:--SiLiS ft. Karin Natsuki
-SUBTITLEJA:SiLiS ft. âƒêFâ‘óú
-WAVE:Liar Prison.ogg
+SUBTITLEJA:SiLiS ft. ÔøΩƒêFÔøΩ‘óÔøΩ
+WAVE:Liar Prison.opus
 PREIMAGE:Liar Prison.png
 LYRICS:Liar Prison.vtt
 BPM:160.00
@@ -533,6 +533,7 @@ BALLOON:
 COURSE:Oni
 LEVEL:8
 BALLOON:9
+MAKER:Komi
 
 #START
 #MEASURE 4/4
@@ -659,6 +660,7 @@ BALLOON:9
 COURSE:Hard
 LEVEL:6
 BALLOON:9
+MAKER:Komi
 
 #START
 #MEASURE 4/4
@@ -785,6 +787,7 @@ BALLOON:9
 COURSE:Easy
 LEVEL:2
 BALLOON:5
+MAKER:Komi
 
 #START
 #MEASURE 4/4
@@ -911,6 +914,7 @@ BALLOON:5
 COURSE:Normal
 LEVEL:4
 BALLOON:5
+MAKER:Komi
 
 #START
 #MEASURE 4/4
